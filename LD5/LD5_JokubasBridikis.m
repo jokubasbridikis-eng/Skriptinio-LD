@@ -94,7 +94,7 @@ legend('round(rand*7)', 'round(rand*9)') %[output:6be9d1c8]
 %   data: {"dataType":"matrix","outputData":{"columns":1,"header":"2×1 cell array","name":"ans","rows":2,"type":"cell","value":[["'amzius'"],["'pavardes'"]]}}
 %---
 %[output:01381352]
-%   data: {"dataType":"text","outputData":{"text":"f(11) = 120\n","truncated":false}}
+%   data: {"dataType":"text","outputData":{"text":"f(12) = 143\nf(14) = 195\n","truncated":false}}
 %---
 %[output:69c68db9]
 %   data: {"dataType":"text","outputData":{"text":"Ta pati m reiksme ivesta antra karta. Programa baigta.\n","truncated":false}}
