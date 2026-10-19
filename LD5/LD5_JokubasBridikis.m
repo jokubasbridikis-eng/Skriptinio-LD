@@ -1,5 +1,5 @@
 % 2026-10-19
-% 4 laboratorinis darbas, privaloma uzduotis, 27 variantas
+% 5 laboratorinis darbas, privaloma uzduotis, 27 variantas
 % Jokubas Bridikis
 
 clc; clear;
